@@ -162,7 +162,9 @@ header input[type="checkbox"]:checked ~ span:nth-last-child(3) {
 
 #carta h2 {
   padding: 10px 0;
-  text-decoration: underline 3px #a00201;
+  text-decoration: underline;
+  text-decoration-color: #a00201;
+  text-decoration-style: wavy;
 }
 
 #carta h2,

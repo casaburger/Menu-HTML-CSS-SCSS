@@ -125,7 +125,9 @@ header {
     }
     h2{
       padding: 10px 0;
-      text-decoration: underline 3px  rgb(160, 2, 1);
+      text-decoration: underline;
+      text-decoration-color: rgb(160, 2, 1);
+      text-decoration-style: wavy;
     }
     h2, 
     h3{
