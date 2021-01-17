@@ -232,6 +232,7 @@ header input[type="checkbox"]:checked ~ span:nth-last-child(3) {
 
 footer {
   display: flex;
+  align-items: center;
   justify-content: space-around;
   padding: 18px;
   text-align: center;
